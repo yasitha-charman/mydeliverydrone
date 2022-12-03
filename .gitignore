@@ -146,3 +146,4 @@ local_history.patch
 .mvn
 mvnw
 mvnw.bat
+mvnw.cmd
